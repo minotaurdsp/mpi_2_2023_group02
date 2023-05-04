@@ -16,9 +16,9 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "easyhostinglv",
+      "bundleIdentifier": "***",
       "config": {
-        "googleMapsApiKey": "AIzaSyB2qqbQDj_zPR3vG61xRzl9bcJ6TfaKaao"
+        "googleMapsApiKey": "***"
       }
     },
     "android": {
